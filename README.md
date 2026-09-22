@@ -1,2 +1,2 @@
-# Repository_Data
-星露谷物语版本库数据源
+# Data
+星露谷物语仓库数据源
