@@ -1,0 +1,5114 @@
+[
+  {
+    "version": "1.6.15.3",
+    "versionCode": "245",
+    "targetSdk": "Android 15 (API 35)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "2026.06.26",
+    "description": "<h3>针对 1.6 更新的各种漏洞修复。</h3>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.15.3 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "277792392",
+          "sha256": "A85664B766D9CB4CFD5C5AD46F3577E75953E022E408082696124310EA431463"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.3 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "291905679",
+          "sha256": "6B64345A435967C023C39BE0B4628342AB833D00E186D5A2D25E05D3AE83DC3C"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.3 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "278132844",
+          "sha256": "61EE1ED0D619EB51F8DC277C57797B2483D24C011837CBD9EAA9EAA89E529F54"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.3 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "278202818",
+          "sha256": "94F66F0B70AEA3C980C3F85A440463CB467197AF781BF87107292FDB4FE57078"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.15.3 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "284515309",
+          "sha256": "F5A1B100AD97171C034C3342C2D1937CF6805EB5B7EEC88C1F705BBBB7102835"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.3 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "326210613",
+          "sha256": "4D4B854A9E5B1E9C95227364EA158C3B6E544839B53A6CB25F60E8BDB3BDC6AC"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.3 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "286579581",
+          "sha256": "E3F1850DB0D70D309B2F50AB1E210181F288B5B8DC7F2FEFCC32BF02A6EBC4BE"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.3 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "286624679",
+          "sha256": "91560EBAA571CF77A6C262EFDEE1E4B169826763D9E2AA90834655E5B0EF26CB"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.15.2",
+    "versionCode": "244",
+    "targetSdk": "Android 15 (API 35)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "2026.03.26",
+    "description": "<h3>针对 1.6 更新的各种漏洞修复。</h3>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.15.2 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "277776790",
+          "sha256": "E7BADB38CEE474DF4CD30119BE2874C2B64546ED705B8F559F19B4B6218C5630"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.2 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "291858747",
+          "sha256": "E2B9F1C1C02A06BFCE03B288ADC3CD0F3E4C670637CE69DC8393F7FAE6E10002"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.2 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "278116117",
+          "sha256": "156DE4CD854C755AF6A7A01F23A836A891F1344B0208CCA4B870DF24BA10303E"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.2 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "278185892",
+          "sha256": "ADC96048B20F03E91A4DC6E27EC4CC4EB5922CB42494E923B7373F4C0BC7E62C"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.15.2 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "284527597",
+          "sha256": "85F3F9A6BCE822867FCCAB8CCFABB17B984ACB664CEC046E04526666226D4A25"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.2 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "326190133",
+          "sha256": "3B0A5ACF59E5AC9FEE53ABA36CA75AACBE29BF5C58C7F4C0A8EB3342ADD031FF"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.2 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "286575485",
+          "sha256": "023470BF5ABB4BC38B50526725C47FA2A6C389BA5B950A99083D7FD853421AD4"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.2 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "286620583",
+          "sha256": "7BA3B767A716A2709D4BC5E1217E56D1FA6274DAA86CA4106FA7E876BBFFF56C"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.15.1",
+    "versionCode": "243",
+    "targetSdk": "Android 15 (API 35)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "2026.03.17",
+    "description": "<h3>针对 1.6 更新的各种漏洞修复。</h3>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.15.1 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "277776875",
+          "sha256": "BF657E67D6D9AB4A9139ACD8B43091D2EA67DDD27C17D0889E2CD7C60B4979E0"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.1 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "291858230",
+          "sha256": "7CECE0F90C5209B34BA5032AF7437B222E84504568F48D72DC28DECD0DAF59DC"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.1 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "278116114",
+          "sha256": "72659DA494D0083446E301A86F670F7FC54090F983A03C8BADB7D67786818C41"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.1 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "278230223",
+          "sha256": "C4AA239887B57A417667EFB270FE81EBCE7256BE2F0E02C90838D2FF449FDEEA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.15.1 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "284527597",
+          "sha256": "B600DA303C4BA0BA28BEC7CEBDFDAE54BE13EE745F202F1A2F45A1BD019A4EA4"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.1 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "326206517",
+          "sha256": "D2608F7D87AD28486DDF30BEF296B09D14678B06F447E77C44057A33553EE61A"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.1 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "286575485",
+          "sha256": "287B12512BCB23DB29F6DC4D76C3CEFFF86CA4085CCD3424E7FA7424C6230BCC"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.1 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "286718887",
+          "sha256": "3F2A832C07E0FCDCA3C1EF2EF2A9AA5F514833A7FDC5FB683344079835C59D09"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.15.0",
+    "versionCode": "239",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "2026.03.17",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.15.0 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "279154177",
+          "sha256": "2C6396E99BACFF286254A4A43F1756FC31F336AE437D2D87D5C62DF6AD810AC2"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.0 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "292635645",
+          "sha256": "22D2898ECEEAEB4D7B9E1DA3DF5EB7491B0296E5E98B78EF64AB7FD043DF86C5"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.0 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "279346148",
+          "sha256": "3896147233FA5707E857AC2D3FB931E33AAC7FAA033B0F1B7C1D44309D2CC684"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.0 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "279464147",
+          "sha256": "8A3AEE44B7EB81F9D95A8D23C1C39468F7ADA6CCCE72F171672B9644837885C9"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.15.0 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "284228155",
+          "sha256": "87124657821DC4B920AB3E1902BB6381BEFE07008204C6212F2FD76C4F7F8993"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.0 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "324579980",
+          "sha256": "A16E346573F66B190420D1CF0CFA59A4B891BC1D8C03ABE7EE0FEC346803D650"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.0 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "285751787",
+          "sha256": "22E4B143D770A64E5DC13FE8EC216464618E56E075E7F049BEBD07B88AD53386"
+        },
+        {
+          "name": "Stardew Valley 1.6.15.0 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "285911561",
+          "sha256": "2E8064B31572A321274C08202DB8AD421BE899888DC29EE952EBCD409671829A"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.11",
+    "versionCode": "238",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.11 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "279148734",
+          "sha256": "4865FC177FD398DCCE363D365505085559AAEBFE8D80A0C470DEC4F32AC8DBCF"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.11 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "292608732",
+          "sha256": "45D81D9D5ADA242DECBADF61C2FE4FB0429ED20B5CA660922C7146295E641C9D"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.11 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "279340721",
+          "sha256": "29EBFBEB492C906E085B7C29F83243A1358FD13545F9684239EDA3F5F8A735D4"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.11 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "279458709",
+          "sha256": "3C8D0AD1C72DA3266849897DC9F3D1CBF5584794E56AB5868E79D7B75F03619C"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.11 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "284211771",
+          "sha256": "03A45F6C611D141201D6525C9369CD2D4C2FAE526883FC25D9FC160A29A422DA"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.11 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "324547212",
+          "sha256": "3C39AB14180F88083C2E5BBB8940C71D7C4ECC5D8E74BEB181B01E3A8A82A6DD"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.11 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "285735403",
+          "sha256": "5A5BDE1446B49242B3C1BE9C6BB7C868184B05C7019EB765116856C489087B95"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.11 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "285895177",
+          "sha256": "D5C86A7B0BBB7D9283CA656BA2DADCDE6D2EC33C3CAC58D9E7EA5AE962427313"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.10",
+    "versionCode": "237",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "2024.12.05",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.10 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "279148425",
+          "sha256": "5D9E976310F15A0BBB922EC76823789956AD4A544B630889BF4A2B34EBFBEE50"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.10 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "292605462",
+          "sha256": "E7674F3638CDCC0E193F026407B380988042D744BE50D1D2832CFDB4BDFA09F0"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.10 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "279340417",
+          "sha256": "8D1BCC127073EFFE0ED87A1ADFFD9608A0C2A4A4E0EA4F3CBDF5CF47FCA68B61"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.10 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "279458381",
+          "sha256": "D61060E1BFDFE710E9729BFB291EB18B9FAA25C0B205A82A4BCF92065E8CD4BA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.10 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "284211771",
+          "sha256": "B6880F377FF3733A7B9335844911712DC77C4CB84E5CCE5B2A79BC7FE309EC36"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.10 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "324547212",
+          "sha256": "013CAAABD7D52D55B0FF8A16CABBC8774F1EE4C586CAAF0E6DA6BBC5EFB7F851"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.10 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "285735403",
+          "sha256": "97C9CF0348CDA1537F258CD6A4202168D1BFDB27FDB3FDACE599840DCC6A8354"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.10 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "285895177",
+          "sha256": "2B28A943433E8B2397473D2FEA59986BD42A9D27B43C20466D67463504112312"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.9",
+    "versionCode": "236",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "2024.12.04",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.9 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "294622629",
+          "sha256": "AABE80FEF7C8FA4F4EC1642B8A1C1BA389FBC93615DB881CBBFB9072713146FF"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.9 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "332338034",
+          "sha256": "5AA0B0CC26D912F5C85D66417B3FDDEB66EB7D8FBD48BC58C4C079F82106C8CA"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.9 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "294814971",
+          "sha256": "3A1D042202B56C51516DBFBA2C0FEE23E793A6D7F2C4D8AC222AD842D57344E7"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.9 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "294970239",
+          "sha256": "5480FBE9AC9D5647F03CE7C5581A89CF396B2501117BD18CC9BD4CBB7D54D36F"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.9 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "300059195",
+          "sha256": "70EF05AE1F7241CAE77B87F89149CC12827317CBFAE2F8119427062F7F637BA1"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.9 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "425824760",
+          "sha256": "7EB7D89E7EA242AEFC7ADBE49C9B9996CAEDE5FD90866D73B96D673D13634E67"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.9 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "301578731",
+          "sha256": "5AA98285FF4D9E789B580432C45D7E41962420448308D0585CB8B95D070C95F1"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.9 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "301959689",
+          "sha256": "8A540077AF48A24A701FB321546BDF4DDCF02ADFF320B6085CED8260AE0B9D68"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.8",
+    "versionCode": "234",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.8 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "294624272",
+          "sha256": "8229EAF40135097D325B354E87D9F1D7ED8CB0B9B7B5890C9FA789FBD45D61B8"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.8 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "332369458",
+          "sha256": "687A83257FF51A709CF6DEF9056B1FFC4E4D7C725B77CB8AF42D2AF308D84DCD"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.8 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "294816601",
+          "sha256": "662E7300A4AECD6EE4A8B6FA2BEC12314CA46C66024DE05C3EE182C7FB69CAB0"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.8 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "294971850",
+          "sha256": "930E68E1B31BA4C56C17D63B916ABF0055095F93BC84B2526F7CB83576AD4FFA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.8 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "300042811",
+          "sha256": "E288EAB8068F7958151A6750C052DC51DFB35329C9DA6D72D62A68F02990EAD4"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.8 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "425808376",
+          "sha256": "BAC89C50F7A352EA204A6A4FF473D67F73B24528611B406516645343F32EC25F"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.8 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "301562347",
+          "sha256": "EB7A4B3E47725E0DD4449970042087414B4F2D8E9FBD310B2142173AED588CFB"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.8 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "301943305",
+          "sha256": "15014971D0639EE6012759CF8C5DB4D86D966C4D1C38F68EA869DCC7D63180AC"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.7",
+    "versionCode": "233",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.7 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "297914722",
+          "sha256": "8B704ABA6E5E8BE9ADBC0DFC8D55014E888A1C788D78E3A096AC72183A765463"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.7 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "336109933",
+          "sha256": "C6DFC162F00359E3EFB71FCA26F5E6F2A2B68A5571FD2560C03D1D980FB9FF9C"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.7 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "298689687",
+          "sha256": "D2BCCD4481221F73AEEA776409F3D10FCE214D3D7E3608C0AC513B2B8E91D8E4"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.7 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "299058877",
+          "sha256": "073019EF0C03639F96D49AEF3C4541E57F79C19DC9BB8F80DBA426180A2598AF"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.7 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "306137654",
+          "sha256": "B167AC190CE2E9CBF74F1B5469B0E877E920426264D003A0A7975231CC2551DA"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.7 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "434737734",
+          "sha256": "974E5521F15D496B8E0769BBEE585CC718C08CAB89AB93FCC102D46C1758EB0F"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.7 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "310720998",
+          "sha256": "95903F71DF3A25F4D17DC90907AFA31B7D44617D83D2601FF65361F77675B141"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.7 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "311855620",
+          "sha256": "CCC0416B4D21DE9D135DEB6D6DB83327A4E46F3DC620B5AFC17647225AFD3C82"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.6",
+    "versionCode": "232",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.6 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "297916807",
+          "sha256": "568ACB598BD8675ED30E174A400D07EEFC675A0F2FEDC403CA0ED095D2275D71"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.6 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "298238476",
+          "sha256": "024ACF20C9A103D53774118AD365CFD172102A9CD6FEB6DBCCECF85C83EF5012"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.6 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "298691734",
+          "sha256": "25B8FA8A4D1EB04017B4C30F9EE76B3B343C691F177FCE8C72C939069B5F10C0"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.6 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "299061019",
+          "sha256": "C5CD352EB938F23FF0AD1AE7D5E418A7E683B96E7B615E9265EC41BD017E0CA0"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.6 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "306133558",
+          "sha256": "258730790B07171D9DD3487AA2CD7283091F8ED087B0D0CF59F26484C004DB08"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.6 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "309328418",
+          "sha256": "96E09AF169DB679E243A8385E30F3A01368A2DA1A4C82B08B5A7A544B88ADA72"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.6 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "310720998",
+          "sha256": "39105D68211ECF5391E2E96942F57FA77794D425DF17AC571C3FAA23FEFE8BE7"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.6 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "311855620",
+          "sha256": "AF7AECC85E96BB6C4D129BD005AD65A464BC9677A660EC0E9E23527B5C946A53"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.5",
+    "versionCode": "231",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.5 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "333298740",
+          "sha256": "6EDDA7924621DFE382578CF3D41D3B2B497608BB7700A7D9A54F48DE2E0E730B"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.5 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "329291663",
+          "sha256": "C432236B245B6942453934C914A74D675B289C1266D95AB2EC5E84A6E2B686A3"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.5 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "333664237",
+          "sha256": "BE7A78C963B3848AC105118A3F69BBCA37835C2A248E0CB51A8901508DA3484C"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.5 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "334911397",
+          "sha256": "8134ABB981A495D6FDD43952AEDA6D9AC5B915A4CD0EDAC6EFC8D96AF3904F12"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.5 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "445330386",
+          "sha256": "F32A1C50ACACD8ADDB99DC4B55AD973DE72889DE40227116FE3FA381BD18C942"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.5 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "435851846",
+          "sha256": "1A19908F2601ED2A6204BE4AA28DFB96BBC16C7880159FBE4A3A589D8C8DF0E0"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.5 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "442375586",
+          "sha256": "70659C17C1ED4B194BB8811B70ECE0162EA31E341955DFD3836FBC5A42AFC2AF"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.5 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "433758196",
+          "sha256": "71496ECBD22E990C67369DEB79625BFA5D05AE69FECFFDDD483AC62BD462FE3D"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.4",
+    "versionCode": "229",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.4 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "297915643",
+          "sha256": "BAEF3774BD6609ED016DBD7D774829A45E0C08D492AFF799468BC8BED3C3729E"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.4 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "298237203",
+          "sha256": "164AB01CDAF65913AE64E0F153E9FB11D4BA20A1AB06291611A25987AB8B97FA"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.4 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "298690463",
+          "sha256": "8B4C9FD5BE8C48979237BB5958DFC32CDA372F1AEBDDA36F90DDD4DE5867D23F"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.4 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "299059714",
+          "sha256": "A5CD25DFC2411849FAB4495FE8774A9936B0D66E2712E713E4A4C903484055EE"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.4 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "306133558",
+          "sha256": "66DBF189272B36BF267EF330C7B8E1BC4C0438444A553294BCFBC56BF36C4BDB"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.4 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "309328418",
+          "sha256": "B2674983D7EFAD9D0DC9386B127754CFF3B67AD3415E9D4F37F35F9EA79C880D"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.4 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "310720998",
+          "sha256": "81CD35A2323868092E83BF32AEAC92A91821A876933BB7D287C00F437D06369C"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.4 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "311855620",
+          "sha256": "AC5DBA4ED88F57A574289D7573E20A09EDC7CB9F0008FBD519DA486BB4F7EC17"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.3",
+    "versionCode": "228",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.3 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "297916460",
+          "sha256": "AC418DBE988D91588BC745C11BECC52168D20BCCC57A6C91D98B384E057E4D5B"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.3 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "298238150",
+          "sha256": "AB5133ADCC6A22C5FE305F2B84E51D40FB445614341DE018A784FC9A6FC3756F"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.3 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "298691417",
+          "sha256": "747BF8B506E68429FA413AFC2A576F2AAC651D44A6B6809E68C995CD4905E2A2"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.3 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "299060678",
+          "sha256": "741A8F4AFAD36AC9B241D0877566B3630A08BCCDF337501CD7ABF17093C6758F"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.3 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "306133558",
+          "sha256": "CA5781DA0D7C24D4474580E526577FB04AE5900B95579EDFDE625A5FF2400595"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.3 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "309328418",
+          "sha256": "472D9FC851BA757F71AF6F908EAC62F9334C33D13E4FA30D56CFF808D81C7B71"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.3 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "310720998",
+          "sha256": "CB2CC62AE317EF072AFCE7817F964B63EF82E464139A47395CFD9175792F03C7"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.3 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "311855620",
+          "sha256": "307ACA5A6112DF44F1BFEC6FDE359D2CA9B333772A6521141973D25F40BD399F"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.2",
+    "versionCode": "226",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.2 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "297915988",
+          "sha256": "3376D2934663BF7F2A731CDAB5BCA58AFB15263533F10E38D2337EA60D212159"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.2 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "298237722",
+          "sha256": "9F02DCA01242899F1D4CD35BD5F804C739BD0E35D144A9AA9E7253612F8C3AF2"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.2 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "298690994",
+          "sha256": "5D8F57DD7B3602E24C918D214FE65071D752E528F56979577FC84D253DE40EC8"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.2 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "299060267",
+          "sha256": "3DF38C0D430242B3256A33ED0B95D3537A3CCC78908C79B9185E144B9004D26A"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.2 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "306133558",
+          "sha256": "C1DB188C59D406F9FB2DB073680B7BACF30ABB83910E3D9E0BC229A2CB56FCE7"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.2 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "309328418",
+          "sha256": "6CDE1CABFFAFE0092E995C96C20769C7CC900A2F175A5795C3D1E6155D28C136"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.2 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "310720998",
+          "sha256": "A7D15C2DD247E2DBE95C8AA530FB11EB1572051D0E264BF1DB92859DFC3A9645"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.2 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "311855620",
+          "sha256": "779BA448C74392540D05016A9494D3E6F5A8F2687B9D4B2E66CA3311E2CD1E4B"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.1",
+    "versionCode": "225",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.1 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "297916465",
+          "sha256": "711DE5621FEE5A10CC9AEC12509A6A5BB184827394434743FCC5CE1EFFEE4C57"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.1 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "298238055",
+          "sha256": "67353CDE3348394FA478D649C7B8DDFBECDCFCDB1918F75221F2D5B109F4C01B"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.1 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "298691326",
+          "sha256": "9CCB1E5CA4D04CE937AC1B1559472348D3568F6B1E5E65A4119FB7354AC5650C"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.1 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "299060612",
+          "sha256": "CA276663540209BE2FAEA8BC926D41CC192B8D6F40148BA4EAA622B768CA4D2A"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.1 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "306133558",
+          "sha256": "7164F10CFA53DABD232DE0AA0D0A7E0C8EC2F7812BBDDC31CA613DAC17F45BDE"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.1 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "309328418",
+          "sha256": "CB7D6923BED0310B033080504CE0E600AA11A8E3A393561FA61816BCA271104C"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.1 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "310720998",
+          "sha256": "490F9DB41435EF52CC714B12AB2E556AEAF24BCC2F951285449BB8CACEBF7425"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.1 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "311855620",
+          "sha256": "8A797F6C0F15CBA02D9C0A073283637D595F0605B1594480E0D8D68EB1E17C84"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.14.0",
+    "versionCode": "224",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.0 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "297880122",
+          "sha256": "14506C82275A16D6DCDEF511C8E685E19CA7EE6FF66E6353616B64955C214FB2"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.0 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "298201650",
+          "sha256": "714FA1FA73A7949AEDFC69C23EFE3E5E55377251B7F774A70CD0153ADD978123"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.0 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "298655033",
+          "sha256": "CA424CF23C3F42E84B4FCEB7710975E4B620320D7003A0E634D6583BC5F51E79"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.0 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "299024172",
+          "sha256": "0E91C996BC46F87BA6EDBF81B7AD77A54C7FF599BB348DEFDFDE6BEBE88D7BB2"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.14.0 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "306100790",
+          "sha256": "BE35DE628C874908A728EE531861FB3A4905762E4EC7EAA8E1ED34D52F607EEF"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.0 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "309295650",
+          "sha256": "ABF6BBEA24CE4C9FBE94C71888C730B8BDCDAA3DF2FF8F424FE76AFE7015A025"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.0 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "310688230",
+          "sha256": "160EA66160D33175901EE5BFAB4AC271B78AE92FB856C36284F19CA44C100DFE"
+        },
+        {
+          "name": "Stardew Valley 1.6.14.0 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "311818756",
+          "sha256": "58A3D342D482F93EC069730052D3367A3586D93F6B0824379882F7912E60FC98"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.13.3",
+    "versionCode": "223",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.13.3 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "297880500",
+          "sha256": "5F9609F36892F5641FEBEB3824E137F2A2E79C5F78FC8841727DD0DB8B49DF43"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.3 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "298202068",
+          "sha256": "261F674A9F610C2A81E5D4B734C15AAD0911BB2181C603E11B00854EAF1C4162"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.3 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "298655427",
+          "sha256": "1EB1287C0EA13222CF60DF783F4401AB8928807752806A4BB8A7DFD3A3A485D7"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.3 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "299024656",
+          "sha256": "4647228B354A006946AF13EA9EF2E05D75294B39667714A9F5BA3A5A85D152FA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.13.3 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "306100790",
+          "sha256": "F1F00883626030B82ADA45FB661F225DBA3650DF08ED57A911C60E7F25C399F0"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.3 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "309295650",
+          "sha256": "A6E73B303B47C2F231C01705B0D6AF38A84300260E45C18FFCD268BCB102E8FC"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.3 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "310688230",
+          "sha256": "B1F737D0D378D70CC098E142BD53F11CFEC0EE3C3155FE0036C1A6A123C8DF16"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.3 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "311818756",
+          "sha256": "69DFA099891C0236D4F2DA6CC024041310B18D85C4C70205A94056387D672875"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.13.2",
+    "versionCode": "222",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.13.2 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "282253656",
+          "sha256": "01105782E4C0E0EDCF4F7FA4CB2BBFF076FC2E8814F6FD4CFF24386358AFE3CD"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.2 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "282539743",
+          "sha256": "93C4AE5BAAC21497B6ECE4B0CF2F2AFC67CCB8C7B427616C973922F27551B9DD"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.2 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "283029343",
+          "sha256": "8228519BB9065C0ABE96551875DD445F58DC14BAFEC86AAEE14F7CD6A0EA5DC5"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.2 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "283360687",
+          "sha256": "BC7FB2FB8E868D8FF256E7723BE46BF20279648BDCC646EA0F042A7C0E03005F"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.13.2 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "290126390",
+          "sha256": "960426FB0B384B433D42D3F3D89D9D78730668C7F3FBE6A62BCC752A62A43A5C"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.2 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "293149218",
+          "sha256": "7B783D4959064D565D5413F6393030A8CC269165DEBEEE960640EF40E4F93002"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.2 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "294713830",
+          "sha256": "B78C4124C0D6BA49D7998644288DEBCB6B9B56D6B214B1A8D4374304C34A000A"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.2 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "295627268",
+          "sha256": "C06943E5C75F3CD8B074E3445E5DDF6166D06D332D7F58859BC7C78D9EC820E1"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.13.1",
+    "versionCode": "221",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.13.1 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "296696924",
+          "sha256": "6B97E07014E659A8A5901901ED2BBA9F09AD09003CE8E2CCC333CC2A3EC04569"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.1 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "295564721",
+          "sha256": "BF71F97A463D4C93FF79147F50029DE27BAFC673AA980F5E4FFEC32184A345F1"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.1 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "297969803",
+          "sha256": "6404BEC7E71D2E689168516551AC6FDE4609D2C42EAB7E2D98C6BE7E7747A8E5"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.1 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "298536327",
+          "sha256": "4DE27F5EBBC25C77D2C4B108CD3B2B039F9431FEA1916D3A501B4C750FC04CBB"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.13.1 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "341304178",
+          "sha256": "3DF4B31112BCDA97C664A9E77D3A7C7C133F28C0834FF45D34720828B90ABACF"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.1 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "340619994",
+          "sha256": "D69585A47E7B330D7E7483187A82E3B1751311034AB12A08C860D6EB54FA9A49"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.1 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "345809170",
+          "sha256": "BF90B112EE4D1E04093C3AFBD37FE04F50185661AB80EA18AC874D11A236CCBE"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.1 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "343765494",
+          "sha256": "DCEB0C0A79CE26815657C9BCAAFC28E84A0C5228DB01D6CC06F42267DCA3A7A6"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.13.0",
+    "versionCode": "220",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.13.0 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "282254071",
+          "sha256": "CFB75842AAD432D621C7271478408CA01D64635EAB8FC8E8ECA030EF09C1D67D"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.0 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "282540213",
+          "sha256": "6839A00ECEBE034366B540DEB2D346308A08B5EE5EE916D724BC4D61206E63C2"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.0 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "283029861",
+          "sha256": "0F50A0A38FE09FDE9CADC1E1469219426990B2A3DF1848D5111CFDFD3D4DB1C0"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.0 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "283361181",
+          "sha256": "F3C7D49C49880DD756152DF4E75184157D8F73D9DE5733059D3839C15AA365FC"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.13.0 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "290126390",
+          "sha256": "2210A129FE6BE734E33C609C48738721CCF02850DFDBEA2F48AE6D9FD8B24022"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.0 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "293149218",
+          "sha256": "8E9BD73476E04BB4B91212B1165D395617FC3C00FDD3534740B0AAC411509475"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.0 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "294713830",
+          "sha256": "D4CE2A16A4E51870609B9EA2439483D83930B85D7FC3F01A32E833E75BA7893E"
+        },
+        {
+          "name": "Stardew Valley 1.6.13.0 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "295627268",
+          "sha256": "B497C7FCF6B58BB6BC3D2D17A60E75A9F3E1A6DCAFEA564ABF77F1A5453491FC"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.12.0",
+    "versionCode": "219",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.12.0 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "296689247",
+          "sha256": "AA830453588DB03D7CFA3CE1BFDF1E7266C9940F1EC8D30762B481E157A9E9B5"
+        },
+        {
+          "name": "Stardew Valley 1.6.12.0 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "295553998",
+          "sha256": "5F5F02FE898B3C7243BC2CE7663F7388352F648BD166F7004FE435EED6894D52"
+        },
+        {
+          "name": "Stardew Valley 1.6.12.0 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "297959725",
+          "sha256": "09CB6B68C54A3408E1FC91651709FD98A2BE1DFE620251F630543481FE26D5E0"
+        },
+        {
+          "name": "Stardew Valley 1.6.12.0 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "298524359",
+          "sha256": "69BAF8D0AFE7980ED99B693BA49E85E689F10F5DD42BEAE7A6AD46F900E2D028"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.12.0 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "341287794",
+          "sha256": "34F00B57648C12F7E23F2D3B3DAB93558E3BA318388946DC0195AC7E2914C89D"
+        },
+        {
+          "name": "Stardew Valley 1.6.12.0 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "340603610",
+          "sha256": "606BDE61E513EF6884644012E8E75D5EF54080CC01670CB4F3A0A70A6D5486A6"
+        },
+        {
+          "name": "Stardew Valley 1.6.12.0 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "345809170",
+          "sha256": "0A62CA510D10CAAE278F34EF4B5714C7F16CFB6C609BB041433BDC4D7F27D8D6"
+        },
+        {
+          "name": "Stardew Valley 1.6.12.0 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "343749110",
+          "sha256": "C276872F522F609ADB0E8B3EE0333246280AB9F7AE03A4F65A7AB93C0C57C6C8"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.11.0",
+    "versionCode": "218",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.11.0 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "296584794",
+          "sha256": "22D5E0F57ECDE6D91FC83F6C9DC0F149466DCAEEA1AA7D5A6EC504C70516ADC1"
+        },
+        {
+          "name": "Stardew Valley 1.6.11.0 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "295451119",
+          "sha256": "7AB6675CADEEE31D131CE153ECBE7214EA9210C913BE7D951D477B64229AFB62"
+        },
+        {
+          "name": "Stardew Valley 1.6.11.0 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "297857230",
+          "sha256": "AFBECC6D27E46C3A92882AEC3CD6117AF9B0D4A6BD8474805110445EE97A9F3B"
+        },
+        {
+          "name": "Stardew Valley 1.6.11.0 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "298420847",
+          "sha256": "38EC39BAD46593CB0198A686F0569CE98939DC53B2E1022A795255AADF872F46"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.11.0 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "341189490",
+          "sha256": "B4929B2105D531D1A9837AA67643F7767843F5141C81872903B77D95A28409E1"
+        },
+        {
+          "name": "Stardew Valley 1.6.11.0 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "340484826",
+          "sha256": "050ED5332E93B7B5ED34FE5F22C497F212698649EFD4AF33DC552618F75F182C"
+        },
+        {
+          "name": "Stardew Valley 1.6.11.0 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "345690386",
+          "sha256": "2957BED4DFACEC1471C1E3A266499D8C342A9D078041B7133B86A0D6DBA7F1DB"
+        },
+        {
+          "name": "Stardew Valley 1.6.11.0 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "343634422",
+          "sha256": "5351BDFF4B05CF29E38B069139985CCFB94D8A9443EB05E638284E9E5D5C78FD"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.10.0",
+    "versionCode": "217",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.10.0 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "296687092",
+          "sha256": "C39E32AA6DAEC8A137EE1DAE00E76CB9DB51C34E044F0B22ECC39629B5363BCE"
+        },
+        {
+          "name": "Stardew Valley 1.6.10.0 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "295551084",
+          "sha256": "B0BB81462A7FB8ACD9A8F072F1C75C30F6184699603CC97A4007FD9B2B4636CC"
+        },
+        {
+          "name": "Stardew Valley 1.6.10.0 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "297957746",
+          "sha256": "1F3B3F808578A69340FFDDAB5AAB75D5A575EE7CE2ED8FE2F0BF60234C6BB38A"
+        },
+        {
+          "name": "Stardew Valley 1.6.10.0 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "298519017",
+          "sha256": "043EAAC56702A29D0CA6DE27BB26F5F43D0477CAB53D85CAD5AF1BE59C641F82"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.10.0 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "341287794",
+          "sha256": "C47754EAEDE55703E192E405669C7C9FC77AF4DA8875FC448B124E9A18366D08"
+        },
+        {
+          "name": "Stardew Valley 1.6.10.0 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "340587226",
+          "sha256": "627C4BD6F9DCF098B9A9D015CA7DAA6A6EF8CC7F064BF33C37BB2D57FA1E9DA2"
+        },
+        {
+          "name": "Stardew Valley 1.6.10.0 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "345792786",
+          "sha256": "1A051843C129A0E8052D29AF75B9D8A008988B2E2E509E8D66D3AACDFEF6EC5A"
+        },
+        {
+          "name": "Stardew Valley 1.6.10.0 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "343732726",
+          "sha256": "979324FD2CB794A10B3E2ED64FBC4982512FB3F8775EF198232430B0AFCF57CD"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.6.9.49",
+    "versionCode": "216",
+    "targetSdk": "Android 14 (API 34)",
+    "minSdk": "Android 5 (API 21)",
+    "date": "2024.11.04",
+    "description": "<h4>移植自PC端</h4><ul><li>包括 PC端 1.6 版本、1.6.1 版本、1.6.2 版本、1.6.3 版本、1.6.4 版本、1.6.5 版本、1.6.6 版本、1.6.7 版本、1.6.8 版本、与 1.6.9 版本的更改（远程联机除外）。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.9.49 armv7.apks",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "296691948",
+          "sha256": "087486E86B357F7F6C02CF42E86D851C028598C6C824D2BD25B2C3F7C3EA7D30"
+        },
+        {
+          "name": "Stardew Valley 1.6.9.49 armv8.apks",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "295556321",
+          "sha256": "ACD1AEDA8B390457F499F00581A4A1B227D65417B41A0C44B2A2048CE98D2A47"
+        },
+        {
+          "name": "Stardew Valley 1.6.9.49 x86.apks",
+          "architectures": [
+            "x86"
+          ],
+          "size": "297964378",
+          "sha256": "1821D22EEC3112FDA56A8E255B04E251C8EBFD1E8F84187D79A3116645CB503D"
+        },
+        {
+          "name": "Stardew Valley 1.6.9.49 x86_64.apks",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "298523147",
+          "sha256": "6B9EC3C94D7828B4E2AD2C0E7C67489D95C40E2AFF21A0735B2890F99D36896C"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.6.9.49 armv7 repack.apk",
+          "architectures": [
+            "armv7"
+          ],
+          "size": "341238642",
+          "sha256": "BB94DF6DB8D78E934A81765753A8AAD8ABEFE5A6964F2B7A5D6F72CFB34CC1E8"
+        },
+        {
+          "name": "Stardew Valley 1.6.9.49 armv8 repack.apk",
+          "architectures": [
+            "armv8"
+          ],
+          "size": "340566746",
+          "sha256": "CC46C06E9C98E52E4F3FB35E6BEB654D2137B69AD2C1F8D276BA7DDD800414E1"
+        },
+        {
+          "name": "Stardew Valley 1.6.9.49 x86 repack.apk",
+          "architectures": [
+            "x86"
+          ],
+          "size": "345739538",
+          "sha256": "1ACD805F4127FA2E20528529DEBDDDFCB4705DDF7481E8A030CA04F17F96B158"
+        },
+        {
+          "name": "Stardew Valley 1.6.9.49 x86_64 repack.apk",
+          "architectures": [
+            "x86_64"
+          ],
+          "size": "343699958",
+          "sha256": "FF1447F08C655442531656D57D74DEF5F0DBB224DAB2134A6491E6661FA1853E"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.52",
+    "versionCode": "170",
+    "targetSdk": "Android 13 (API 33)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.10.30",
+    "description": "<h4>改进</h4><ul><li>针对 Google Play Pass（Google Play 中的一种通行证）进行了更改。</li></ul><h4>错误修正</h4><ul><li>修复了游戏手柄崩溃的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.52 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "284117485",
+          "sha256": "1D75689F83FC0CC859C5238934D2618D4FE0302425F953E05B606C60BD3C86C1"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.52 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "323345236",
+          "sha256": "6BDCC923C7B51D4059B3BF1DEA0796FECD6726A3824ABF99BC9F8ADF17DEACEC"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.51",
+    "versionCode": "169",
+    "targetSdk": "Android 13 (API 33)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.51 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283320654",
+          "sha256": "3D41C01C772854F6A7AEB450784367553ED0FBD86BDDBE0F1C172745430078F9"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.51 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322579243",
+          "sha256": "214E4F99E4031FD3B61197B755555E8F671410E34F9A9F4CC57C242FB11E6025"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.39",
+    "versionCode": "164",
+    "targetSdk": "Android 12 (API 31)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.02.20",
+    "description": "<h4>改进</h4><ul><li>新增了开关界面闪光特效的选项。</li><li>新增了调整工具栏字体大小的选项。</li><li>优化了平板上界面显示的比例。</li><li>提升了手柄操作体验。</li></ul><h4>错误修正</h4><ul><li>修复了游玩时无法播放音乐或播客的问题。</li><li>修复了“索拉里昂英雄传奇”事件中按钮无法点击的问题。</li><li>修复了菜单中偶尔出现物品丢失的问题。</li><li>修复了向博物馆捐赠后物品计数未增加的问题。</li><li>修复了更新版本后重新进入博物馆，捐赠过的物品计数清零的问题。</li><li>修复了矿井层数相关的显示问题。</li><li>修复了“失物招领”出现重复物品的问题。</li><li>修复了放置在出货箱后面的物品无法点击的问题。</li><li>修复了多个导致游戏崩溃的漏洞。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.39 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283323714",
+          "sha256": "D6260608584BDD6A86BD711446E62800E7F2E4BD5CB42AAD3316E82877D159E2"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.39 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322767659",
+          "sha256": "2D2720077885CFD04D83D5B4EAA47B92FF25CE40B35D7CA58B3DFFAAE123320E"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.37",
+    "versionCode": "162",
+    "targetSdk": "Android 12 (API 31)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.01.18",
+    "description": "<h4>改进</h4><ul><li>优化了前往鹦鹉特快平台的寻路机制。</li></ul><h4>错误修正</h4><ul><li>修复了夜间结算存档时，职业选择重复出现的问题。</li><li>修复了上述问题导致的生命值出现异常的问题。</li><li>修复了高分辨率下无法提交特殊订单物品的问题。</li><li>修复了磨坊库存物品显示和消失的问题。</li><li>修复了收藏页面中日记残页图标和名称显示错误的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.37 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283328960",
+          "sha256": "78FE96E83BA8FFDECB91C2AA2104E3D41A82656981AD3BC7C16DACB2A18D139A"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.37 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322767659",
+          "sha256": "93FA3A6B25284C45646F0726B956BCBD503CA57C1C62E3FC650FAC02F5FC5DF1"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.36",
+    "versionCode": "161",
+    "targetSdk": "Android 12 (API 31)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.01.13",
+    "description": "<h4>改进</h4><ul><li>补充了一些缺失的中文翻译。</li><li>收集品选项卡不再展示所有的传说鱼类二代和椰林飘香。</li><li>（iOS）优化了部分设备上的 UI 缩放。</li></ul><h4>错误修正</h4><ul><li>修复了在接取特别任务后使用迷你出货箱时在夜间结算时发生的崩溃问题。</li><li>修复了部分物品重复或丢失的问题。</li><li>（Android）修复了在存档迁移时会造成崩溃的问题。</li><li>修复了手柄模式下仅能关闭对话框但无法结束对话的问题。</li><li>修复了使用手柄查看背包时可能发生的崩溃问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.36 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283328729",
+          "sha256": "B944E40B6D075F73C9E9DEC493020B4D39523C85D2DEB663544A0F9156DDDDBA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.36 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322767659",
+          "sha256": "63F6F127B1AAE85CCDA8EFCAF74E195AD18BCB0C5DA70748EFAC98330A2F4127"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.35",
+    "versionCode": "160",
+    "targetSdk": "Android 12 (API 31)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.01.11",
+    "description": "<h4>改进</h4><ul><li>若玩家处于史莱姆屋内，不再自动选中武器攻击史莱姆。</li></ul><h4>错误修正</h4><ul><li>修复了取消附魔操作导致武器消失的问题。</li><li>现在可以正常在地毯上放置家具了。</li><li>修复了使用触屏移动时无法离开节日场景的问题。</li><li>（正式）修复了紧急存档后马匹无故消失的问题。</li><li>（正式）修复了紧急存档后出货箱内物品莫名消失的问题。</li><li>修复了一些可能导致游戏闪退的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.35 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283310350",
+          "sha256": "76C953F8FA2883EB09CEF5BBED75EFDF7445180EA465295057ECFDDA966C77C2"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.35 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322751275",
+          "sha256": "2C5F9F12545FF70466291F5BE8FA3907D28CA6B2974851A79DAFD8505CC58061"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.34",
+    "versionCode": "159",
+    "targetSdk": "Android 12 (API 31)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.01.09",
+    "description": "<h3>官方未提供本次的更新说明。</h3><h4>错误修正</h4><ul><li>隐藏控制按钮的选项现已可以正常使用。</li><li>现在使用工具时上马不会导致卡住了。</li><li>关闭菜单后，星之果实不再自动进入背包。</li><li>收集博物馆的奖励后物品能被正常移除了。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.34 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283301089",
+          "sha256": "AA85E959AE8E94F30FCE7572441C84A3D645C9E1C440CF2B7DAA0CD73AFC0F48"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.34 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322751275",
+          "sha256": "31D8131093826F0D3348B3412F3305D982ED645E3B0B58BFA33F0CB94E984AD8"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.33",
+    "versionCode": "158",
+    "targetSdk": "Android 12 (API 31)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.01.08",
+    "description": "<h4>改进</h4><ul><li>新增了一键整理到箱子的按钮。</li><li>破坏补给箱时能自动选取正确的工具。</li></ul><h4>错误修正</h4><ul><li>修复了紧急加载后祝尼魔屋导致的崩溃问题。</li><li>修复了紧急加载后马匹消失的问题。</li><li>修复了紧急加载后出货箱内物品消失的问题。</li><li>修复了 NPC 错误的寻路机制。</li><li>修复了动物被卡在外面变得不安的问题。</li><li>修复了菜单内光标显示的问题。</li><li>修复了塞巴斯蒂安六心事件文本无法推进的问题。</li><li>修复了自动采集器容量被错误判定为已满的问题。</li><li>可以正常接受新手任务了。</li><li>修复了海滩农场秘密钓鱼点的寻路机制。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.33 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283301206",
+          "sha256": "5D2229F38C725BADFB30A5927FA521F0116F2131C4B5A7BA555F7CDE7D9E9E70"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.33 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322751275",
+          "sha256": "C37AC3934648DFDD3BFB251B824FAC6600617331F9F5A88E959306D4C67FDC9E"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.32",
+    "versionCode": "157",
+    "targetSdk": "Android 12 (API 31)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.01.07",
+    "description": "<h4>改进</h4><ul><li>重新添加了中文。</li></ul><h4>错误修正</h4><ul><li>现在下马更加容易了。</li><li>增大了韩语字体的大小。</li><li>修复了涉及孩子的崩溃问题。</li><li>修复了自动采集器不能正常工作的问题。</li><li>修复了工具条卡住的问题。</li><li>修复了祝尼魔没有将收获的物品存入小屋的问题。</li><li>修复了在开始界面中的虚拟按钮问题。</li><li>修复了骑马时无法采集的问题。</li><li>修复了下马可能会卡在地图外的问题。</li><li>修复了无法在克林特的铁砧上敲击晶球的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.32 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283299171",
+          "sha256": "CAF51A0F965DF5DAAF92AD2AE53FE3F285DB62B6143F54AAD6086758B4D7F18D"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.32 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322751275",
+          "sha256": "D90E6C488CDE190E9820F9917BCEF5E387D667E0FCA19DD652513C774FD520D9"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.5.6.31",
+    "versionCode": "156",
+    "targetSdk": "Android 12 (API 31)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2023.01.06",
+    "description": "<h4>移植自 PC 端。</h4><ul><li>更新内容参见 PC 端版本 1.5、1.5.1、1.5.2、1.5.3、1.5.4、1.5.5和 1.5.6（不包括多人模式）。</li><li>此版本尚未添加中文。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.31 universal.apks",
+          "architectures": [
+            "universal"
+          ],
+          "size": "283299482",
+          "sha256": "1A2DDA0D5DAEB069D351A50BE1AD620BBE9F1C1C0420D8CDADE4BB718E0D3CC2"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    },
+    "repackedPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.5.6.31 universal repack.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "322751275",
+          "sha256": "C4C49508D1A3FB1B927982A80B044960D2085E16764ED402ACAB2D0D094E8302"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.151",
+    "versionCode": "151",
+    "targetSdk": "Android 10 (API 29)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2021.01.14",
+    "description": "<h4>错误修正</h4><ul><li>修复了潘姆的九心事件。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.151 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "83364747",
+          "sha256": "CB34E34D88FC4584BC369EE12FAD71EF747AF591F0AD0D29A1E99124F12AFB02"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.150",
+    "versionCode": "150",
+    "targetSdk": "Android 10 (API 29)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2021.01.04",
+    "description": "<h4>错误修正</h4><ul><li>修复了收藏页古物显示的问题。</li><li>修复了矮人语教程不在钱包内显示的问题。</li><li>修复了矿井外某片区域不可到达的问题。</li><li>修复了潘姆的九心事件。</li><li>对齐过场动画。</li><li>特效显示位置修正。</li><li>修复了社交页最后一位村民无法显示的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.150 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "83364747",
+          "sha256": "3CD6E83251FA5B83330E588241A9699F5EE08919DFD97DB987EB7366E5673DC9"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.148",
+    "versionCode": "148",
+    "targetSdk": "Android 10 (API 29)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.10.26",
+    "description": "<h4>错误修正</h4><ul><li>修复了部分机型出现的信箱问题。</li><li>兼容安卓10。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.148 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "82463362",
+          "sha256": "FB2651B4766D014DDDF91357A6442634F1C5198E068974CA629CC65723BDFA12"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.147",
+    "versionCode": "147",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.147 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135526869",
+          "sha256": "DE4657493D9B875BE16F5570CA819935E9ED8CD822613E4AA13098F0E242F6AA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.145",
+    "versionCode": "145",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.03.23",
+    "description": "<h4>错误修正</h4><ul><li>修复了博物馆捐赠古物丢失问题。</li><li>修复了在游戏后期得到防风草种子会使已经完成的任务重新开始的问题。</li><li>其他bug的修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.145 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134603008",
+          "sha256": "F869C86219B91894FA034C856C7521197F0C98D998E1F3A5AD21BBB29949FDA8"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.144",
+    "versionCode": "144",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.03.06",
+    "description": "<h4>错误修正</h4><ul><li>水平工具栏的修复。</li><li>图纸的修复。</li><li>Misc bug的修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.144 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134601875",
+          "sha256": "EAB7333244B4558AEDFD04D9ADB02B77848CFCB80B6409434BA5C5653F891E24"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.142",
+    "versionCode": "142",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.03.03",
+    "description": "<h4>错误修正</h4><ul><li>星露谷展会钓鱼的修复。</li><li>Bug修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.142 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134600339",
+          "sha256": "2A9628052D0A5801451EFBD76BA56814E047FFC51B813E2D2CC5122FBBE167CA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.141",
+    "versionCode": "141",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.02.29",
+    "description": "<h4>错误修正</h4><ul><li>修复了祝尼魔小屋出现的bug。</li><li>其他bug的修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.141 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134600339",
+          "sha256": "79D13FC7714A2DAC5E913FF4DF718C76D16B48B58250EECA68BA2F08DA8A3146"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.140",
+    "versionCode": "140",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.02.26",
+    "description": "<h4>错误修正</h4><ul><li>修复了离婚后游戏崩溃。</li><li>修复了大鸡舍及谷仓的自动喂食出现的问题。</li><li>修复了与五彩碎片染色相关的问题。</li><li>修复了各种bug。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.140 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134598807",
+          "sha256": "7E32D679383F698DACB0E9EBAAD1971181BC5E4E2278DC2DE4ECBB5651291701"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.139",
+    "versionCode": "139",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.02.21",
+    "description": "<h4>错误修正</h4><ul><li>修复了触屏移动、摇杆移动、及按键移动的问题。</li><li>修复了家具移动的问题。</li><li>修复了重复挥舞工具的问题。</li><li>修复了染色菜单栏。</li><li>修复了当使用罗宾提供的建筑相关功能时，屏幕会淡出两次的问题。</li><li>修复了触屏移动出现的各种问题。</li><li>修复了各种bug。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.139 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134596759",
+          "sha256": "E6A18FFBC0F1D58C7D98F3082D387FEBA54719A515B07B8F2BB64D83F66B23B3"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.138",
+    "versionCode": "138",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.02.19",
+    "description": "<h4>错误修正</h4><ul><li>修复了使用虚拟手柄放置物品和移动家具的问题。</li><li>修复了桌上放置物品的bug。</li><li>修复了在使用虚拟摇杆时会误触到物品栏的问题。</li><li>修复了弹弓中存在的问题。</li><li>修复了玩家和蟹笼互动时的问题。</li><li>修复了玩家与茶树的互动问题。</li><li>修复了积雪不显示的问题。</li><li>修正了天气预报频道中每个季节的天气图标。</li><li>修复了在使用虚拟摇杆时星露谷展会出现的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.138 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134559887",
+          "sha256": "9401AE8598AC3BD9C9749D7ECF63301729711B8E6A311672B313FC7963A02A70"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.137",
+    "versionCode": "137",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.02.14",
+    "description": "<h4>PC版本的部分</h4><ul><li>包括 PC 端版本 1.4.5的改变。</li></ul><h4>错误修正</h4><ul><li>修复了小屏幕触发对话出现的文本兼容问题。</li><li>修复了博物馆移动物品的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.137 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134556815",
+          "sha256": "70D8916F5DB906584938671395E49020E86B26E4A0EA97BAF939A710FBFD2B8A"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.5.136",
+    "versionCode": "136",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "<h4>错误修正</h4><ul><li>修复了各种bug</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.5.136 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134553747",
+          "sha256": "79A02DA196356B6D8513C3F8445C8ED943B66EB501A9DAAB8E1E6D74E7EFE589"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.135",
+    "versionCode": "135",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "<h4>错误修正</h4><ul><li>修复了各种bug</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.135 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134553743",
+          "sha256": "FACED0849E6C9BCE4BD30A3D922CF9FF4E75E2D5DA0D77A19A139D4389A76BD0"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.134",
+    "versionCode": "134",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "<h4>错误修正</h4><ul><li>修复了各种bug</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.134 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134507741",
+          "sha256": "0081058C5EAB0934EAC044F26BE5A78C19506A3DB5DD066F05226BF55048AD40"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.133",
+    "versionCode": "133",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "<h4>错误修正</h4><ul><li>修复了各种bug</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.133 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "134174989",
+          "sha256": "10383478C71D160A5309ED5658D081A6A45F333C23721A4DA6C502A9470642FD"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.132",
+    "versionCode": "132",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.02.10",
+    "description": "<h4>错误修正</h4><ul><li>修复了各种bug</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.132 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135282050",
+          "sha256": "0192BB5DD055A385B33A6A6DFA9948478EDEA764D27ACB3CB3045AC56D459677"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.131",
+    "versionCode": "131",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2020.02.10",
+    "description": "<h3>此次更新增加了1.4版本的游戏内容。</h3><h4>PC端</h4><ul><li>包括 PC 端 1.4 版本， 1.4.1 版本， 1.4.2 版本， 1.4.3 版本， 及1.4.4 版本的改变。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.131 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135277966",
+          "sha256": "7008B138430AE25D9394A0F8EDD933C91D0A9F9C4214A9337322F83B8AFE07DF"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.130",
+    "versionCode": "130",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.130 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135277458",
+          "sha256": "9C56837999D8912161331BECA3A9EA772B27581980B7CA5A23F4BAD7F9480240"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.129",
+    "versionCode": "129",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.129 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135275406",
+          "sha256": "4881EB8437ED694670240EF528091765E84E5D83B7F0928DBEA8BE0CB9E3BA31"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.128",
+    "versionCode": "128",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.128 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135373096",
+          "sha256": "4000CD29E1E10D092ECE5C73D32082EDB3C50D0E688ED437CD5F193699092C11"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.125",
+    "versionCode": "125",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.125 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135373612",
+          "sha256": "C2B808666E87BB6DD9F2A3941405BC0B2D4CECA1B6D2336164FA878EFC06F2E2"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.123",
+    "versionCode": "123",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.123 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135267503",
+          "sha256": "68DE9A98D58413F39EDA1CCD5B628171913FDD123D9A7D10E8625ECB2EE96C66"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.122",
+    "versionCode": "122",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.122 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135260855",
+          "sha256": "29EB6AAA083B571D2CDD1FCCE45F3D16BBBA3D5CA24530B2B0E1EA687254DAEC"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.118",
+    "versionCode": "118",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.118 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "135260331",
+          "sha256": "49FF3568F51159292C569E7E6BF5C4574C1BF0E9CC82336AD6900AB22694E518"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.4.4.117",
+    "versionCode": "117",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.4.4.117 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "142295028",
+          "sha256": "AC33EDC0F7EFDB6FD818C716052BA4F89591E99C173505ED3F78E4CDFB1E9803"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.3.36.104",
+    "versionCode": "104",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.3.36.104 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "128637179",
+          "sha256": "05FAE88088B1FD76F4353C911CB8B1D7A9E6D23DA7C9C4C4EEAC6A48EB0E1377"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.3.36.103",
+    "versionCode": "103",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.3.36.103 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "128637187",
+          "sha256": "D099A0FE09A35749D35A06A0A85691E3A724E2B02CD3E085C79F09DE3B09726F"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.34",
+    "versionCode": "94",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.34 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "132814628",
+          "sha256": "F8CC9B0B12F044089794185DD553A7D684680B63617249F0E884322200D9E5FA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.331",
+    "versionCode": "93",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.08.23",
+    "description": "<h4>错误修正</h4><ul><li>兼容Pixel3。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.331 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116459219",
+          "sha256": "2DB0F3D7927FE05CBBBDA5213A1FA278ED3D01B0CF4A65B403858F721F792F0B"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.33",
+    "versionCode": "92",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.08.12",
+    "description": "<h4>错误修正</h4><ul><li>修复了韩国地区出现的问题。</li><li>修复bug。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.33 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116459211",
+          "sha256": "4AB7998F10FF00DB94D76CEF478666123D2BC5255616AA4F1079384E103ABD64"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.322",
+    "versionCode": "91",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.08.09",
+    "description": "<h4>错误修正</h4><ul><li>修复了 Google 商店正版校验出错的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.322 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116459211",
+          "sha256": "CE87D0155F2F11E67A07355D7D15E3D8517E068EB2E971CC9682B5D5F4F0F9E3"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.321",
+    "versionCode": "90",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.321 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116459215",
+          "sha256": "D8BD8B9A80D09C88A9FA639884BD45C6954A19B686C5201DFED2B0A92840B553"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.32",
+    "versionCode": "89",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.32 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116459207",
+          "sha256": "47FA5ED23289F4C5A9FE7CD68D35B76A418FAB5AF6EAB85A8C8F956E380482BE"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.31",
+    "versionCode": "87",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.07.18",
+    "description": "<h4>错误修正</h4><ul><li>修复了华为手机运行游戏时出现的问题。</li><li>修复bug。</li></ul>\n",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.31 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116449577",
+          "sha256": "B0941D9BC3571DBDA360C2936922204C4C7D14B78FF7509A9307243739754CE6"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.284",
+    "versionCode": "84",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.06.24",
+    "description": "<h4>调整</h4><ul><li>支持更多外接手柄。</li><li>修复bug。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.284 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116449073",
+          "sha256": "1EB9CEFE59B5F4F4D1F1A81D3194D367FEA1EC81343F0A58BFA24035E5C4DDBF"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.283",
+    "versionCode": "83",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.283 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116449081",
+          "sha256": "97BF4CFFF553BBC04DC1AAE7BDBA80518DE3D2667F1999DC1638FC531F3F3E2C"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.281",
+    "versionCode": "80",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.281 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116449073",
+          "sha256": "CCDCE2858529259A764A9083D8B346C04DC5FE89662967FD2611FAE140FE7F78"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.28",
+    "versionCode": "79",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.06.14",
+    "description": "",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.28 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116449061",
+          "sha256": "AB2E0FC27DE6906FFE5FC9B71C7FC0C47E03B2684D942C10EDD3DF9C76C61C19"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.25",
+    "versionCode": "70",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.05.02",
+    "description": "<h4>调整</h4><ul><li>修复了外接手柄出现的问题。</li><li>你可以给马儿戴帽子了。</li><li>可以在室外孵化史莱姆。</li><li>修复了幻想棋盘游戏。</li><li>修复bug。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.25 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116428585",
+          "sha256": "CF817BBA5BEC9DDECE5A376ED252C1AACB7F78C17EA9AE25D361EBC0315504CA"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.24",
+    "versionCode": "69",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.29",
+    "description": "<h4>错误修正</h4><ul><li>兼容安卓6.0及以后的版本。</li><li>修复了音乐播放问题。</li><li>修复了存储时游戏崩溃的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.24 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116416809",
+          "sha256": "6A4BF9319EF59994BD0F3FA5A1DE9ADEA39BFE53F2E703921A2385C1AA868348"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.23",
+    "versionCode": "68",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.26",
+    "description": "<h3>由于灰度测试期间又出现了新的漏洞，该版本也被撤回，漏洞修复后发布了 1.24 版本。</h3>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.23 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116417851",
+          "sha256": "B85E75EF532894340AEE487B7DCE5B88B493A1A258D9E8305A0C41FCAE758B92"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.22",
+    "versionCode": "67",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.25",
+    "description": "<h3>由于灰度测试期间又出现了新的漏洞，该版本也被撤回，漏洞修复后发布了 1.23 版本。</h3>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.22 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116415961",
+          "sha256": "5B23DB91325EA7CA2D4F63C75EC48A517667AE163DD7770E3E994AA35E07189F"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.21",
+    "versionCode": "66",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.25",
+    "description": "<h3>由于灰度测试期间出现了新的漏洞，该版本被撤回，漏洞修复后发布了 1.22 版本。</h3>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.21 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116415965",
+          "sha256": "CF13FDC5C1A96F895FC44DD81F44FD33759DDEF844301D7DD4336FA653967574"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.20",
+    "versionCode": "65",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.24",
+    "description": "<h4>改进</h4><ul><li>钓鱼小游戏现在显示完美提示了。</li><li>现在可以使用外接手柄打开更多菜单页面。</li><li>修复了旧版系统上颜色导致的崩溃问题。</li><li>其他错误修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.20 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116413337",
+          "sha256": "93835809D894C1D541C2D854AAD117733B411F5BEF7F320BD477FD309A3044F4"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.19",
+    "versionCode": "62",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.12",
+    "description": "<h4>改进</h4><ul><li>现在可以使用外接手柄打开商店菜单以及背包了。</li><li>修复了一些导致音乐无法正常播放的问题。</li><li>通知信息现在显示在屏幕上的水平工具栏上。</li><li>修复了装备着弹弓时进入星露谷展览会导致的问题。</li><li>其他错误修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.19 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "114661774",
+          "sha256": "DEE9B8125E1E26F06BCF82B58775507235F31F55F6D0E19BF94B5A2E37285225"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.17",
+    "versionCode": "61",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.07",
+    "description": "<h4>改进</h4><ul><li>改进外接手柄的游戏体验。</li><li>修复了出货箱菜单文本显示的问题。</li><li>缩小动物显示的菜单界面大小。</li><li>修复了水平工具栏。</li><li>修复了应用崩溃闪退的问题。</li><li>修复了偶发的地图崩溃问题。</li><li>修复了星露谷展览会上农产品展示的显示问题。</li><li>其他错误修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.17 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "114620387",
+          "sha256": "9327B32C6C2878C5885EE908B5303F39181BA13BE9670C6B58DCEC48B83630F5"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.16",
+    "versionCode": "59",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.05",
+    "description": "<h3>由于灰度测试期间出现了新的漏洞，该版本被撤回，漏洞修复后发布了 1.17 版本。</h3>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.16 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "114619875",
+          "sha256": "7FB54A91AB6A1A584ED08C4808390851142C2510EB65B78AA2B44F20F894CEE5"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.15",
+    "versionCode": "58",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.04.03",
+    "description": "<h4>错误修正</h4><ul><li>修复了部分变色物品的颜色显示问题。</li><li>其他错误修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.15 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116601016",
+          "sha256": "0A99EEAC317287431826CCFE203F5D84319C34099E99296424623A71D0A774A0"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.14",
+    "versionCode": "57",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.28",
+    "description": "<h4>错误修正</h4><ul><li>修复了移除小桶时出现的问题。</li><li>修复了幻想棋盘游戏的触控问题。</li><li>获得物品后，提示信息可以显示物品数量了。</li><li>选取颜色后，可以直接预览箱子的外观。</li><li>出货箱菜单现在可以正常显示图标了。</li><li>打造菜单现在可以显示2列以上的内容了。</li><li>恢复隐藏摇杆操作方式下双指调整界面缩放大小的功能。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.14 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116604608",
+          "sha256": "4A1F55381384E1B49F944B2F908EE552E153A076D0C601A2F54827D5A262F423"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.13",
+    "versionCode": "56",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.26",
+    "description": "<h4>错误修正</h4><ul><li>修复了游戏内音效回声出现异常的问题。</li><li>修复了游戏出现闪屏或黑屏的问题。</li><li>提高稳定性。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.13 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116604608",
+          "sha256": "89F5C949E1612BA208CE7E3658370E5EF40DFA01828D9E44E6468ADB93074AA0"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.12",
+    "versionCode": "53",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.22",
+    "description": "<h4>错误修正</h4><ul><li>修复了输入文本点击不了的问题。</li><li>修复了工具提示显示错位的问题。</li><li>修复了收集包完成后界面绘制的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.12 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116598460",
+          "sha256": "6CA0439AC085D9642396A6AF88E96B3BFE33448ACD547D65A6DE6E50D1F15AA2"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.11",
+    "versionCode": "52",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.22",
+    "description": "<h4>错误修正</h4><ul><li>修复了自动攻击弹出窗口的问题。</li><li>修复了社区中心菜单显示的问题。</li><li>其他错误修复。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.11 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116598460",
+          "sha256": "7D29E8E323646233DFDFD8E76D85C21944E6237ADE587585CA7A9A8A02E7DFB1"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.10",
+    "versionCode": "51",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.21",
+    "description": "<h4>错误修正</h4><ul><li>修复了工具栏大小无法调整的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.10 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116596920",
+          "sha256": "57B9365D9A28334C5D5DECFD4045A027D08D48A5D2FF2464A382C5877404AEF3"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.09",
+    "versionCode": "50",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.21",
+    "description": "<h4>错误修正</h4><ul><li>修复了社区中心收集包菜单显示的问题。</li><li>修复了动物信息菜单显示的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.09 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116596408",
+          "sha256": "F5F51214214463FC6AF91AEEAE578DE9C33AEB94F55EA2850E3F0F96F1E04753"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.08",
+    "versionCode": "49",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.21",
+    "description": "<h4>错误修正</h4><ul><li>修复了物品数量不显示的问题。</li><li>修正出货箱关闭按钮的显示位置。</li><li>重新设计了对话框的大小。</li><li>修复其他错误。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.08 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116596412",
+          "sha256": "1806E542F7686467F338346E4B614D4CD2891C75F787B66216D3846E4EF0666D"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.07",
+    "versionCode": "47",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.21",
+    "description": "<h4>改进</h4><ul><li>菜单显示大小优化。</li><li>添加调整工具栏大小的滑块。</li><li>添加调整日期时间栏大小的滑块。</li><li>添加新的操作方式：摇杆与按钮。</li><li>禁用隐藏摇杆操作方式下双指调整界面缩放大小的功能。</li><li>扩大摇杆移动区域空间的大小。</li><li>修复了出货箱关闭按钮的显示问题。</li><li>修复其他错误。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.07 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116594880",
+          "sha256": "E7E8BAED5234DA5AD5F21437964CC90387DDD7ACBA56615367AB14351AD9BD48"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.06",
+    "versionCode": "46",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.21",
+    "description": "<h3>由于灰度测试期间又出现了新的漏洞，该版本也被撤回，漏洞修复后发布了 1.07 版本。</h3>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.06 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116594876",
+          "sha256": "92D0A839AFA603F5BF494E898347B80C840328FB07CC3CADEDC9B953C8303915"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.05",
+    "versionCode": "45",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.21",
+    "description": "<h3>由于灰度测试期间出现了新的漏洞，该版本被撤回，漏洞修复后发布了 1.06 版本。</h3>\n",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.05 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116593844",
+          "sha256": "A83C6B8EC3AB67F6EF4483DA6B86A78F9522E191944F9517B36BF7E8C35708E6"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.04",
+    "versionCode": "44",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.15",
+    "description": "<h4>错误修正</h4><ul><li>提高游戏稳定性。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.04 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116577816",
+          "sha256": "6333975E9BEDC63522E9E987D3014F7E6D888DEA2ACFE7D16ADED44E3D2ABB06"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.03",
+    "versionCode": "43",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.15",
+    "description": "<h4>错误修正</h4><ul><li>修复了游戏在星期天（游戏内）崩溃的问题。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.03 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116577820",
+          "sha256": "9B1444276021488B4CA79D5154881502EC75AF3BBED6303C42A877F2F54316DE"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.02",
+    "versionCode": "42",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.03.14",
+    "description": "<h4>错误修正</h4><ul><li>修复了开启游戏时可能崩溃的问题。</li><li>修复了人物出现在错误的地方以及行为不正常的问题。</li><li>修复了音频导致的崩溃。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.02 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116574748",
+          "sha256": "46CA7EA9A35186BE3977642D6D6D4ACFBA6ED5EC4B1E57012494A862EAA06639"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.01",
+    "versionCode": "39 / 40",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.3.14",
+    "description": "<h3>1.01 r 版本是 1.01 的重新上传版本（两者版本号一致，版本代码不同，此处仅作区分）</h3><h4>错误修正</h4><ul><li>修复了应用权限导致的打开游戏出现的崩溃。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.01 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116572704",
+          "sha256": "2EE51B59B7DC4A88228A7322253067B91BEE16E9BF287FEF0A9D1CCF80C1EB4E"
+        },
+        {
+          "name": "Stardew Valley 1.01 r universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116572704",
+          "sha256": "ED4380E59F2F64EC4557C052F93CAF23B95C5BFCBF07B59F3179B489AC7FFE8A"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  },
+  {
+    "version": "1.00",
+    "versionCode": "38",
+    "targetSdk": "Android 9 (API 28)",
+    "minSdk": "Android 4.4 (API 19)",
+    "date": "2019.3.13",
+    "description": "<h3>Android 1.0 版本是安卓端游戏的最初版本。此版本包含 PC 端 1.3.36 的所有内容，多人合作和中文语言支持除外。</h3><h4>改进</h4><ul><li>在玩家退出游戏或改变位置时自动存档，即使游戏被强制退出或卸载依然可以继续之前的游戏进度，节日期间或播放过场动画时不会生效。</li><li>自动存档产生的存档不能被其他平台读取，若要转移存档，必须在游戏内睡觉，开始新的一天，存档才可以在其他平台继续使用。</li><li>在选项卡中添加存档按钮以便随时存档。（详见 手机存档）</li><li>可以改变界面数字大小了。</li><li>为触屏界面设计了新的用户界面、菜单系统和控制方式。</li><li>支持双指放大缩小改变游戏界面的比例。</li></ul>",
+    "originalPackage": {
+      "files": [
+        {
+          "name": "Stardew Valley 1.00 universal.apk",
+          "architectures": [
+            "universal"
+          ],
+          "size": "116572188",
+          "sha256": "71AC2FD304DF4342B8E47BC7B369898C5221037BC0F343A7BFA29DE13769B86A"
+        }
+      ],
+      "links": [
+        {
+          "name": "版本库官方网盘",
+          "url": "",
+          "code": ""
+        },
+        {
+          "name": "",
+          "url": "",
+          "code": ""
+        }
+      ]
+    }
+  }
+]
